@@ -1,0 +1,15 @@
+Temperature
+
+print(Temperature:)
+
+temperature = float(input("What is the temperature?")
+if temperature <= 60:
+	print("You should wear a jacket.")
+	print("It is cool outside.")
+elif temperature >= 85:
+	print("Stay hydrated, it is hot outside!")
+	print("Make sure you don't overheat.")
+else: 
+	print("Go outside and enjoy the outdoors!")
+	print("Make sure you stay hydrated!")
+print("Have fun!")
